@@ -208,4 +208,4 @@ public string specials { get;  set; }
 
 ### Documentation made by Edge.
 ### Wrapper made by Boyscout
-### Choco-Client Organization.
+### TENEIDAE (c) 
